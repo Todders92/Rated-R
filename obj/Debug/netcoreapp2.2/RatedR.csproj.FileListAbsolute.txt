@@ -1,0 +1,11 @@
+C:\Users\Todd\Desktop\RatedR\RatedR\bin\Debug\netcoreapp2.2\RatedR.deps.json
+C:\Users\Todd\Desktop\RatedR\RatedR\bin\Debug\netcoreapp2.2\RatedR.runtimeconfig.json
+C:\Users\Todd\Desktop\RatedR\RatedR\bin\Debug\netcoreapp2.2\RatedR.runtimeconfig.dev.json
+C:\Users\Todd\Desktop\RatedR\RatedR\bin\Debug\netcoreapp2.2\RatedR.dll
+C:\Users\Todd\Desktop\RatedR\RatedR\bin\Debug\netcoreapp2.2\RatedR.pdb
+C:\Users\Todd\Desktop\RatedR\RatedR\obj\Debug\netcoreapp2.2\RatedR.csprojAssemblyReference.cache
+C:\Users\Todd\Desktop\RatedR\RatedR\obj\Debug\netcoreapp2.2\RatedR.csproj.CoreCompileInputs.cache
+C:\Users\Todd\Desktop\RatedR\RatedR\obj\Debug\netcoreapp2.2\RatedR.AssemblyInfoInputs.cache
+C:\Users\Todd\Desktop\RatedR\RatedR\obj\Debug\netcoreapp2.2\RatedR.AssemblyInfo.cs
+C:\Users\Todd\Desktop\RatedR\RatedR\obj\Debug\netcoreapp2.2\RatedR.dll
+C:\Users\Todd\Desktop\RatedR\RatedR\obj\Debug\netcoreapp2.2\RatedR.pdb
